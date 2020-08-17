@@ -1,0 +1,26 @@
+// @import "_reset.scss";
+// @import "_variables.scss";
+// @import "_layout.scss";
+// @import "_extends.scss";
+
+/* components*/
+// @import "components/buttons";
+// @import "components/texts";
+// @import "components/containers";
+// @import "components/forms";
+
+/* sections */
+// @import "sections/navbar";
+// @import "sections/main";
+// @import "sections/popup";
+// @import "sections/footer";
+$bg-blue: rgb(0, 183, 255);
+body {
+    background-color: $bg-blue;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+  }
