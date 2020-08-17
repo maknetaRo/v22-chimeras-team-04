@@ -90,22 +90,10 @@
 /*!*************************!*\
   !*** ./src/js/index.js ***!
   \*************************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sass_styles_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../sass/styles.scss */ \"./src/sass/styles.scss\");\n/* harmony import */ var _sass_styles_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_sass_styles_scss__WEBPACK_IMPORTED_MODULE_0__);\n\n\nconsole.log(\"Hello World!\")\n\n\n\n//# sourceURL=webpack:///./src/js/index.js?");
-
-/***/ }),
-
-/***/ "./src/sass/styles.scss":
-/*!******************************!*\
-  !*** ./src/sass/styles.scss ***!
-  \******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (17:8)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| // @import \\\"sections/popup\\\";\\n| // @import \\\"sections/footer\\\";\\n> $bg-blue: rgb(0, 183, 255);\\n| body {\\n|     background-color: $bg-blue;\");\n\n//# sourceURL=webpack:///./src/sass/styles.scss?");
+eval("// import '../sass/styles.scss';\n\nconsole.log(\"Hello World!\")\n\n\n\n//# sourceURL=webpack:///./src/js/index.js?");
 
 /***/ })
 
